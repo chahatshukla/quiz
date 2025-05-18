@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
+
 # quiz
 This is a simple quiz generator web app that allows user to generate quiz and share them with others to solve.
 
@@ -25,4 +25,4 @@ clean and responsive UI
 React.js
 CSS
 
->>>>>>> 1fa8439b2de39c839e90fa2b8b0c2bf61f252090
+
